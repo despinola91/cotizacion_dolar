@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T15:42:42.197Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36" etag="BrgH3e6gMrwd6zp0XtXR" version="14.0.1" type="github"><diagram id="LLYMfR5nDYzxfXHtb1jq" name="Page-1">zVbbctsgEP0aPbZjXZ08xnZ670ymzkzSRyw2Eg0CDcKR3K/vYiFLMnaddNrGLxr2iIXds4cFL5wXzXtFyvyrpMC9YEIbL1x4QXAR+fg1wKYFknDSAplitIX8Hliyn2DBbtqaUahGE7WUXLNyDKZSCEj1CCNKyXo87UHy8a4lycABlinhLnrHqM5tWsG0xz8Ay/JuZz+5bP8UpJtsM6lyQmU9gMJrL5wrKXU7Kpo5cMNdx0vr9+7I311gCoR+jsP6o59/mjaPzP/xhS4+N0Fz++1NR/MT4WubsY1WbzoKlFwLCmaViRfO6pxpWJYkNX9rrDliuS44Wj4O7XKgNDRHA/V36aNsQBag1QanWIfIxmQV419Yu+75nyYWywfcB7EFia15tlu6pwUHlpmXsOSQdAscMkUKRFdYwOOU+f+FsiAccxZMXc784ABnyb+iLHAou9noXArElqli5etzFk3OjbPQ4ewOVoYwpMIzkSQcQ5itFI4yM8LuIVilyatzmUTnxmX0uyNL0hQJen0JJufGWnz6NgBBr8y9ilbKSVWxFLlADSrtwgO2oGH6fjD+bq6Tt7G1Fo29XbbGpjME5nQ/NAZexuzdtlbn18YM1LnZ9+qCecm1SuF0G8P0MtCnjq5b50Eh4wN17DAFnGj2NA73UHHtDjeSGfV2MoovxzoKgz19tGlar+ETYW+ho8e4W6jlwVloq7Vd2n8uv8SRX71tgFWKp69kInPUiGdPj4VWaSUfYS65VIgIKXDm7IFxvgcRzjJh1IqaAMRn5iQzfPhd2R8Fo9Rsc7APjN9Ef6EVxM/oBdGhR8/LWwGa/auzLV3/dA+vfwE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-12T13:23:06.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36" etag="4ad3ZtGf8cRPwy9zxECz" version="14.0.1" type="github">
+  <diagram id="LLYMfR5nDYzxfXHtb1jq" name="Page-1">
+    <mxGraphModel dx="1662" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uI1hJ7xki1jLdDKx2xTR-1" value="Telegram bot" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uI1hJ7xki1jLdDKx2xTR-2" value="Python Script" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uI1hJ7xki1jLdDKx2xTR-3" value="Web Site &lt;br&gt;Weather" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uI1hJ7xki1jLdDKx2xTR-4" value="Telegram public channel" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uI1hJ7xki1jLdDKx2xTR-6" value="web scrapping" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8u31a8VCSOz44BTnr4ok-2" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="uI1hJ7xki1jLdDKx2xTR-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="170" as="sourcePoint" />
+            <mxPoint x="570" y="170" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8u31a8VCSOz44BTnr4ok-3" value="daily &lt;br&gt;push" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="8u31a8VCSOz44BTnr4ok-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3" y="0.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8u31a8VCSOz44BTnr4ok-4" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uI1hJ7xki1jLdDKx2xTR-1" target="uI1hJ7xki1jLdDKx2xTR-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="210" as="sourcePoint" />
+            <mxPoint x="440" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8u31a8VCSOz44BTnr4ok-5" value="Post update" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8u31a8VCSOz44BTnr4ok-8" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uI1hJ7xki1jLdDKx2xTR-2" target="uI1hJ7xki1jLdDKx2xTR-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
